@@ -1,18 +1,3 @@
-##Parser ✅
-##Proper nouns ✅
-##Split it ✅
-##Look at ✅
-##Match clauses and singles ✅
-##write or read cvs file from excel spreadsheet✅
-#Use brown as the dict. set ✅
-#have import math & collections import counter included ✅
-#NEED TO ADD USER INPUT✅
-#maybe make my own dict. instead of nltk
-##https://www.nltk.org/api/nltk.tag.pos_tag.html
-##https://www.nltk.org/api/nltk.tokenize.html
-##https://www.nltk.org/book/ch05.html
-
-
 import nltk
 from nltk.corpus import brown
 import csv
